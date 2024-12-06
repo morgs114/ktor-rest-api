@@ -1,3 +1,4 @@
+// This contains a lambda block where you can customise logging: how detailed/if you want to filter log messages
 package com.example
 
 import io.ktor.serialization.kotlinx.json.*

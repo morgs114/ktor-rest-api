@@ -1,3 +1,5 @@
+// main entry point for our program - run application and open address returned in console
+
 package com.example
 
 import io.ktor.server.application.*
